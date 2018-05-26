@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "dc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
-venue: "UC Davis - DIBSI"        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "UC Davis - DIBSI Genomics"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "Gladys Valley Hall, Davis, California, 95616"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
@@ -48,9 +48,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <h4>This is the website for the Social Sciences workshop to be run at DIBSI 2018. We will be updating the content below as the date of the workshop approaches. In the mean time:</h4>
   
-<h4>Curriculum for this workshop may be viewed here: <a href="{http://www.datacarpentry.org/genomics-workshop}">http://www.datacarpentry.org/genomics-workshop</a>.</h4>
+<h4>Curriculum for this workshop may be viewed here: <a href="http://www.datacarpentry.org/genomics-workshop">http://www.datacarpentry.org/genomics-workshop</a>.</h4>
   
-<h4>Registration for this workshop may be found here: <a href="{https://registration.genomecenter.ucdavis.edu/events/DIBSI_2018_Genomics_Workshop}">https://registration.genomecenter.ucdavis.edu/events/DIBSI_2018_Genomics_Workshop</a></h4>
+<h4>Registration for this workshop may be found here: <a href="https://registration.genomecenter.ucdavis.edu/events/DIBSI_2018_Genomics_Workshop">https://registration.genomecenter.ucdavis.edu/events/DIBSI_2018_Genomics_Workshop</a></h4>
 
 <h2 id="general">General Information</h2>
 
