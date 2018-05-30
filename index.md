@@ -46,7 +46,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
-<h4>This is the website for the Social Sciences workshop to be run at DIBSI 2018. We will be updating the content below as the date of the workshop approaches. In the mean time:</h4>
+<h4>This is the website for the Genomics workshop to be run at DIBSI 2018. We will be updating the content below as the date of the workshop approaches. In the mean time:</h4>
   
 <h4>Curriculum for this workshop may be viewed here: <a href="http://www.datacarpentry.org/genomics-workshop">http://www.datacarpentry.org/genomics-workshop</a>.</h4>
   
