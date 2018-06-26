@@ -52,6 +52,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   
 <h4>Registration for this workshop may be found here: <a href="https://registration.genomecenter.ucdavis.edu/events/DIBSI_2018_Genomics_Workshop">https://registration.genomecenter.ucdavis.edu/events/DIBSI_2018_Genomics_Workshop</a></h4>
 
+<h4>The etherpad for this workshop can be found here: <a href="https://public.etherpad-mozilla.org/p/2018-01-24-ucdavis">https://public.etherpad-mozilla.org/p/2018-01-24-ucdavis</a></h4>
+
 <h2 id="general">General Information</h2>
 
 {% comment %}
